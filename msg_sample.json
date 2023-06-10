@@ -1,0 +1,20 @@
+{
+    "message_id": 52,
+    "from": {
+        "id": 1666939284,
+        "is_bot": False,
+        "first_name": "Abu Taher",
+        "last_name": "Muhammad",
+        "username": "abutahermuhammad",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 1666939284,
+        "first_name": "Abu Taher",
+        "last_name": "Muhammad",
+        "username": "abutahermuhammad",
+        "type": "private"
+    },
+    "date": 1684162224,
+    "text": "hi"
+}
